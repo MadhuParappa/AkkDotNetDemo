@@ -5,7 +5,6 @@ C:\Users\MadhuP\source\repos\MovieStreaming\MovieStreaming\bin\Debug\Akka.dll
 C:\Users\MadhuP\source\repos\MovieStreaming\MovieStreaming\bin\Debug\Newtonsoft.Json.dll
 C:\Users\MadhuP\source\repos\MovieStreaming\MovieStreaming\bin\Debug\Akka.xml
 C:\Users\MadhuP\source\repos\MovieStreaming\MovieStreaming\bin\Debug\Newtonsoft.Json.xml
-C:\Users\MadhuP\source\repos\MovieStreaming\MovieStreaming\obj\Debug\MovieStreaming.csprojAssemblyReference.cache
 C:\Users\MadhuP\source\repos\MovieStreaming\MovieStreaming\obj\Debug\MovieStreaming.csproj.CoreCompileInputs.cache
 C:\Users\MadhuP\source\repos\MovieStreaming\MovieStreaming\obj\Debug\MovieStreaming.csproj.CopyComplete
 C:\Users\MadhuP\source\repos\MovieStreaming\MovieStreaming\obj\Debug\MovieStreaming.exe
